@@ -26,7 +26,7 @@ function (user){
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td>This program will take the input of someones user name (such as SinisterShawn, AwesomeAllison, or CuteClyde) and run the isActive aray, is the username is found in the array it would return a string "Hello (user), Welcome back!" as the expression user.isActive would be true. If they do not appear in the referenced array "isActive" the expresion would be false and the program would go to the next statement which is an else, and is therefore the only alternattive option for the program, and return the string "Hey (user)! Would you like to renew your subscription?>"</td>
+    <td>This program will take the input of someones user name (such as SinisterShawn, AwesomeAllison, or CuteClyde) and reference the isActive object, if the username is found in the object it would return a string "Hello (user), Welcome back!" as the expression user.isActive would be true. If they do not appear in the referenced object "isActive" the expresion would be false and the program would go to the next statement which is an else, and is therefore the only alternattive option for the program, and return the string "Hey (user)! Would you like to renew your subscription?>"</td>
   </tr>
 </table>
 
