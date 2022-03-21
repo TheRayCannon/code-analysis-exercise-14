@@ -19,9 +19,9 @@ function (user){
 
 | Input | Output |
 | ------------ | ------------------------------------------------------------------- |
-|    SinisterShawn     |  Welcome back, SinisterShawn!                               | 
-|    AwesomeAllison    |  Welcom back, AwesomeAllison!                               | 
-|    CuteClyde         |  Hey CuteClyde! Would you like to renew your subscription?  | 
+|   { user: SinisterShawn, isActive: true }    |  'Welcome back, SinisterShawn!'                              | 
+|   { user: AwesomeAllison, isActive: true }   |   'Welcome back, AwesomeAllison!'                            |
+|   { user: CuteClyde, isActive: true }        |  'Hey CuteClyde! Would you like to renew your subscription?' | 
 
 <table>
   <tr>
