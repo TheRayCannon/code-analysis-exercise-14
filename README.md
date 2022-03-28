@@ -21,7 +21,7 @@ function (user){
 | ------------ | ------------------------------------------------------------------- |
 |   { user: SinisterShawn, isActive: true }    |  'Welcome back, SinisterShawn!'                              | 
 |   { user: AwesomeAllison, isActive: true }   |   'Welcome back, AwesomeAllison!'                            |
-|   { user: CuteClyde, isActive: true }        |  'Hey CuteClyde! Would you like to renew your subscription?' | 
+|   { user: CuteClyde, isActive: false }       |  'Hey CuteClyde! Would you like to renew your subscription?' | 
 
 <table>
   <tr>
